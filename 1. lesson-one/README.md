@@ -1,4 +1,4 @@
-##lesson-one
+# lesson-one
 # what is CLI app
 If you are from a non programming backgroud, there are chances you have never interacted with a CLI app. Those are pretty obsolete now from the end user scene. But programmers use them all the time.
 
